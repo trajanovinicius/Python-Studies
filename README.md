@@ -1,3 +1,3 @@
 # Python-Studies
 
-Guide related to a basic recap on developing with the python programming language
+Guia relacionado a uma recapitulação básica sobre desenvolvimento com a linguagem de programação python

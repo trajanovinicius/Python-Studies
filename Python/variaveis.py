@@ -5,6 +5,6 @@ print(resultado)
 nome = "Marcos"
 print(nome)
 
-a = "anos"
-idade = "20"
-print(idade + a)
+endereco = "Rua Flávio alves"
+print(endereco)
+# e assim por diante
