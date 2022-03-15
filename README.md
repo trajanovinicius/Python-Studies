@@ -1,2 +1,3 @@
 # Python-Studies
-Studies related to python programming language
+
+Guide related to a basic recap on developing with the python programming language
