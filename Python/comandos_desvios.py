@@ -12,7 +12,7 @@ else:
     print('Acesso Negado')
 print('Final')
 
-# caso tenha um cenário no qual o if será um pouco maior, poderá ser feito assim:
+# caso tenha um cenário no qual o if terá múltiplas condições, poderá ser feito assim:
 idade = int(input('Insira sua idade: '))
 if idade > 65:
     print('Acesso prioritário')
