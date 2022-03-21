@@ -7,3 +7,4 @@
 megaSena = (8, 20,  37, 44, 51)
 
 print(megaSena[4])
+# Listas:
